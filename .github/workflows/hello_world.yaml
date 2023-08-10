@@ -23,5 +23,3 @@ jobs:
         - name: goodbye
           run: echo "good bye"
           shell: bash
-
-
